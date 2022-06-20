@@ -1,0 +1,17 @@
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\bin\Debug\net6.0\exercicio-3-solucao.exe
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\bin\Debug\net6.0\exercicio-3-solucao.deps.json
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\bin\Debug\net6.0\exercicio-3-solucao.runtimeconfig.json
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\bin\Debug\net6.0\exercicio-3-solucao.dll
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\bin\Debug\net6.0\exercicio-3-solucao.pdb
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\obj\Debug\net6.0\exercicio-3-solucao.csproj.AssemblyReference.cache
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\obj\Debug\net6.0\exercicio-3-solucao.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\obj\Debug\net6.0\exercicio-3-solucao.AssemblyInfoInputs.cache
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\obj\Debug\net6.0\exercicio-3-solucao.AssemblyInfo.cs
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\obj\Debug\net6.0\exercicio-3-solucao.csproj.CoreCompileInputs.cache
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\obj\Debug\net6.0\exercicio-3-solucao.csproj.CopyComplete
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\obj\Debug\net6.0\exercicio-3-solucao.dll
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\obj\Debug\net6.0\refint\exercicio-3-solucao.dll
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\obj\Debug\net6.0\exercicio-3-solucao.pdb
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\obj\Debug\net6.0\exercicio-3-solucao.genruntimeconfig.cache
+D:\workspace\repositorio-target\exercicio-3\exercicio-3-solucao\exercicio-3-solucao\obj\Debug\net6.0\ref\exercicio-3-solucao.dll
